@@ -4,7 +4,7 @@
 }
 .header{
     
-    width: 1200px;
+    width: 1000px;
     margin: auto;
     display: flex;
     margin: 60px;
@@ -37,4 +37,51 @@ text-align: center;
 position: relative;
 bottom: 10px;
 
+}
+.div3{
+    
+display: flex;
+width: 1000px;
+margin: auto;
+
+position: relative;
+bottom: 50px;
+margin-left: 200px;
+}
+.right{
+flex-direction: column;
+position: relative;
+right:130px;
+top: 120px;
+}
+.img{
+width: 1000px;
+height: 500px;
+display: flex;
+position: relative;
+right: 70px;
+
+}
+.h12{
+   font-size: 60px;
+   width:550px;
+
+
+}
+.bor{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+}
+.p12{
+    background-color: white;
+box-shadow: 0px 5px 20px rgb(0,0,0,0.09);
+}
+.borfer{
+    border-top: 4px solid #FF9C08;
+    border-radius: 8px;
+    width: 150px;
+    margin-bottom: 50px;
+   
+    
 }
