@@ -147,3 +147,21 @@ box-shadow: 0px 5px 20px rgb(0,0,0,0.09);
     bottom: 25px;
     left: 40px;
 }
+.div5{
+    width: 1100px;
+    margin: auto;
+    margin: 100px;
+}
+.divbig{
+    display: flex;
+    margin: -40px 0px;
+}
+.kudak{
+    margin-left: 100px;
+    width: 600px;
+    height: 600px;
+    margin: -120px 50px;
+}
+.p14{
+    margin: 50px 0px;
+}
