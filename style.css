@@ -146,6 +146,7 @@ box-shadow: 0px 5px 20px rgb(0,0,0,0.09);
     position: relative;
     bottom: 25px;
     left: 40px;
+    font-weight: 900;
 }
 .div5{
     width: 1100px;
@@ -221,4 +222,37 @@ margin-left: 100px;
 .img12{
     margin: 50px 0px;
     
+}
+.vsyo{
+    display: flex;
+    background-color: #FEF9F2;
+    width: 1200px;
+    margin: auto;
+    height: 1000px;
+    position: relative;
+    top: 1200px;
+}
+.drun{
+    border-radius: 8px;
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    box-shadow: 0px 5px 20px rgb(0,0,0,0.15);
+    position: relative;
+    z-index: 2;
+    bottom: 300px;
+left:300px;
+
+
+}
+.rost{
+    position: relative;
+    
+    
+}
+.chap{
+    margin: 170px  30px;
+}
+.bb1{
+    margin: 20px 80px;
 }
